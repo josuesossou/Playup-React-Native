@@ -1,0 +1,3 @@
+rootProject.name = 'playup'
+
+include ':app'
